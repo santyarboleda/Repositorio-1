@@ -22,4 +22,4 @@ $$x^2$$
 
 
 
-<http://www.google.com>
+[[Google]](http://www.google.com)
